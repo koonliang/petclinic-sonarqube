@@ -1,6 +1,7 @@
-#Sonarqube with OWASP dependency scanning
+# Sonarqube with OWASP dependency scanning
 
-This is a repository with code based on SpringBoot Petclinic (REST version): https://github.com/spring-petclinic/spring-petclinic-rest
+This is a repository with code based on SpringBoot Petclinic (REST version): 
+https://github.com/spring-petclinic/spring-petclinic-rest
 
 It is further integrated with SonarQube and OWASP dependency scanning.
 
